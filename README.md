@@ -27,3 +27,6 @@
 3. Notice the New Department on the Departments tab.
 </p>
 <br />
+
+
+[Click here to return to the osTicket Post Installation Configuration Homepage](https://github.com/BryanEAtherton/osticket-post-install-setup)
